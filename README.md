@@ -1,6 +1,6 @@
-# wiserphonelauncher
+# Wiser Phone Launcher
 
-A new Flutter application.
+Android Launcher written by Dart with Flutter Framework.
 
 ## Getting Started
 

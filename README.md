@@ -1,6 +1,7 @@
 # Wiser Phone Launcher
 
 Android Launcher written by Dart with Flutter Framework.
+For details, please click my Linkedln Post here: https://www.linkedin.com/feed/update/urn:li:activity:6781962371138244608/
 
 ## Getting Started
 

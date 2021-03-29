@@ -39,7 +39,7 @@ If you are interested, please click here to access my Linkedln Profile (https://
 
 
 ## Screenshots
-
+![TimOS Logo](https://github.com/timleunghk/timos/blob/master/logo/TimOS.jpg| width=200)
 ![A](https://github.com/timleunghk/wiserphonelauncher/blob/master/demos/IMG_7369.png | width=200)
 ![B](https://github.com/timleunghk/wiserphonelauncher/blob/master/demos/IMG_7374.png | width=200)
 ![C](https://github.com/timleunghk/wiserphonelauncher/blob/master/demos/IMG_7380.png | width=200)

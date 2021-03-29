@@ -40,7 +40,13 @@ If you are interested, please click here to access my Linkedln Profile (https://
 
 ## Screenshots
 <img src="https://github.com/timleunghk/wiserphonelauncher/blob/master/demos/IMG_7369.png" width="400"><img src="https://github.com/timleunghk/wiserphonelauncher/blob/master/demos/IMG_7380.png" width="400">
+<<<<<<< HEAD
+<img src="https://github.com/timleunghk/wiserphonelauncher/blob/master/demos/IMG_7380.png" width="400">
+<img src="https://github.com/timleunghk/wiserphonelauncher/blob/master/demos/IMG_7374.png" width="400">
+<img src="https://github.com/timleunghk/wiserphonelauncher/blob/master/demos/DEMOS.gif" width="450">
+=======
 <img src="https://github.com/timleunghk/wiserphonelauncher/blob/master/demos/IMG_7374.png" width="400">
 <video width="400" controls autoplay>
     <source src="https://github.com/timleunghk/wiserphonelauncher/blob/master/demos/IMG_7381.MOV" type="video/mp4">
 </video>
+>>>>>>> 6d3e9572356669e3044f72ce8b743144a495daf0

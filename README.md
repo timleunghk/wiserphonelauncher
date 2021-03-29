@@ -39,9 +39,6 @@ If you are interested, please click here to access my Linkedln Profile (https://
 
 
 ## Screenshots
-<img src="https://github.com/timleunghk/timos/blob/master/logo/TimOS.jpg" width="200">
-<img src="https://github.com/timleunghk/wiserphonelauncher/blob/master/demos/IMG_7369.png" width="200">
-<img src="https://github.com/timleunghk/wiserphonelauncher/blob/master/demos/IMG_7374.png" width="200">
-<img src="https://github.com/timleunghk/wiserphonelauncher/blob/master/demos/IMG_7380.png" width="200">
-<img src="https://github.com/timleunghk/wiserphonelauncher/blob/master/demos/IMG_7381.MOV" width="200">
+<img src="https://github.com/timleunghk/wiserphonelauncher/blob/master/demos/IMG_7369.png" width="400"><img src="https://github.com/timleunghk/wiserphonelauncher/blob/master/demos/IMG_7374.png" width="400"><img src="https://github.com/timleunghk/wiserphonelauncher/blob/master/demos/IMG_7380.png" width="400">
+<video width="480" height="720" src="https://github.com/timleunghk/wiserphonelauncher/blob/master/demos/IMG_7381.MOV"></video>
 

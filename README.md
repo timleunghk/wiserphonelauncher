@@ -46,6 +46,5 @@ If you are interested, please click here to access my Linkedln Profile (https://
 <img src="https://github.com/timleunghk/wiserphonelauncher/blob/master/demos/IMG_7380.png" width="400">
 3. Prototype 2 -- Wallpaper included, clock is not added.
 <img src="https://github.com/timleunghk/wiserphonelauncher/blob/master/demos/IMG_7374.png" width="400">
-<img 
 4. Animated Demo
 <img src="https://github.com/timleunghk/wiserphonelauncher/blob/master/demos/DEMOS.gif" width="450">

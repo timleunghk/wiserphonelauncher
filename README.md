@@ -3,6 +3,12 @@
 Android Launcher written by Dart with Flutter Framework.
 For details, please click my Linkedln Post here: (https://www.linkedin.com/feed/update/urn:li:activity:6781962371138244608/)
 
+
+## Newest Version
+
+RSS Bulletin is added in this launcher
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
@@ -46,4 +52,6 @@ If you are interested, please click here to access my Linkedln Profile (https://
 <img src="https://github.com/timleunghk/wiserphonelauncher/blob/master/demos/IMG_7380.png" width="400">
 3. Prototype 2 -- Wallpaper included, clock is not added.
 <img src="https://github.com/timleunghk/wiserphonelauncher/blob/master/demos/IMG_7374.png" width="400">
-
+4. New Added Features --- RSS Feed News
+<img src="https://github.com/timleunghk/wiserphonelauncher/blob/master/demos/IMG_7701.png" width="400">
+<img src="https://github.com/timleunghk/wiserphonelauncher/blob/master/demos/IMG_7702.png" width="400">

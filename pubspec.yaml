@@ -31,6 +31,16 @@ dependencies:
   device_apps: ^1.2.0
   intl:
   splashscreen:
+  webfeed: 0.6.0
+  http:
+
+  url_launcher:
+  xml:
+  flutter_webview_plugin:
+  path_provider:
+
+  wallpaper_manager:
+
 
 dev_dependencies:
   flutter_test:

@@ -82,7 +82,7 @@ class _RSSFeedState extends State<RSSFeed> {
       // If there is no error, load the RSS data into the _feed object.
       updateFeed(result);
       // Reset the title.
-      updateTitle("<Hacker News\\> | Jobs Feed");
+      updateTitle("港聞新聞 - Yahoo 新聞");
     });
   }
 

@@ -6,7 +6,7 @@ For details, please click my Linkedln Post here: (https://www.linkedin.com/feed/
 
 ## Newest Version
 
-RSS Bulletin is added in this launcher
+RSS Bulletin is added in this launcher (Bugfix)
 
 
 ## Getting Started
@@ -22,11 +22,13 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-## Which Components are Used
-
+## Which Components are Used (List most important ones)
 
 -  device_apps: ^1.2.0   (To obtain installed app information)
 -  intl:			(To show time in correct format)
+-  url_launcher: Access Internet site for getting RSS 
+-  xml: To parse XML from RSS
+
 
 ## Which Special Font is used
 
